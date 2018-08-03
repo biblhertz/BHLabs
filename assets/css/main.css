@@ -151,7 +151,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #f2849e !important;
+			color: #8E1B15 !important;
 		}
 
 	strong, b {
@@ -3145,7 +3145,8 @@ input, select, textarea {
 
 	#footer {
 		padding: 5em 0 6em 0 ;
-		background-color: #f6f6f6;
+		background-color: #575756;
+		color: #ffffff;
 	}
 
 		#footer > .inner {
@@ -3183,7 +3184,7 @@ input, select, textarea {
 				margin-top: 5em;
 				list-style: none;
 				font-size: 0.8em;
-				color: rgba(88, 88, 88, 0.5);
+				color: rgba(255, 255, 255, 0.5);
 			}
 
 				#footer > .inner .copyright a {
