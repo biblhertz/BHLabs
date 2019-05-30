@@ -2295,7 +2295,8 @@ input, select, textarea {
 		display: inline-block;
 		position: relative;
 		object-fit: cover;
-		height:100%;
+		height:332.5px;
+		width:332.5px;
 	}
 
 		.image img {
